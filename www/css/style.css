@@ -1,0 +1,82 @@
+/**/
+.topo{
+  width: 100%;
+  height: 100%;
+}
+
+.link1{
+  font-size: 28px;
+  color:black;
+  background:sandybrown;
+  width: 87%;
+  border-top-left-radius: 30px; 
+  border-bottom-left-radius: 30px;
+  margin-top: 20px;
+  margin-left: 55px;
+
+}
+
+.link2{
+  font-size: 23px;
+  color:black;
+  background:gainsboro;
+  width: 100%;
+  border-top-left-radius: 30px; 
+  border-bottom-left-radius: 30px;
+  margin-top: 20px;
+  margin-left: 15px;
+
+}
+
+.botao1{
+  margin-left:15px;
+}
+
+.botao2{
+  margin-left:25px;
+}
+
+
+
+.texto{
+  text-align: center;
+}
+
+
+.imgloc{
+  width: 90%;
+  height:195px;
+  margin-left: 20px;
+  margin-top: 20px;
+
+}
+
+h3{
+  color:crimson;
+  margin-left: 10px;
+}
+
+.txtcurso{
+  font-size: 20px;
+  margin-left: 10px;
+}
+
+.periodo{
+  color: gray;
+  margin-left: 10px;
+  font-size: 20px;
+}
+
+#voltar{
+  text-align: right;
+}
+
+.btn{
+  margin-left: 250px;
+}
+
+.imgcurso{
+  width: 100%;
+  height:150px;
+  margin-top: 20px;
+}
